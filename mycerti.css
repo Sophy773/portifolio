@@ -35,3 +35,13 @@ main>img{
     font-size: 2em;
     margin: 20px 0;
 } 
+
+button{
+    background-color: greenyellow;
+    color: black;
+    border-radius: 20px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
